@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
 亲爱的  小霞霞   
+  您的  男朋友  欧先生  正在使劲帮您抢票  
+  请您耐心等待。。。
 You can use the [editor on GitHub](https://github.com/xindanding/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
